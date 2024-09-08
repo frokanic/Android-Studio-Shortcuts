@@ -9,5 +9,7 @@ This text document will be my personal reference guide to android studio shortcu
 | Shortcut Key                     | Description                                                |
 |:---------------------------------|:-----------------------------------------------------------|
 | `Ctrl + Shift + V`               | Paste from recent clipboard history                        |
+| `Ctrl + D`             | Duplicate the current line or selection       |
+
 
 </div>
