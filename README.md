@@ -6,8 +6,8 @@ This text document will be my personal reference guide to android studio shortcu
 
 <div align="center">
 
-| Shortcut Key           | Description                                   |
-|------------------------|-----------------------------------------------|
-| `Ctrl + Shift + V`     | Paste from recent clipboard history           |
+| Shortcut Key                     | Description                                                |
+|:---------------------------------|:-----------------------------------------------------------|
+| `Ctrl + Shift + V`               | Paste from recent clipboard history                        |
 
 </div>
