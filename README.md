@@ -13,6 +13,7 @@ This text document will be my personal reference guide to android studio shortcu
 |:---------------------------------|:-----------------------------------------------------------|
 | `Ctrl + Shift + V`               | Paste from recent clipboard history                        |
 | `Ctrl + D`             | Duplicate the current line or selection       |
+| `Ctrl + W`   | Incrementally selects a larger block of code. Starts from the word where the cursor is located and expands the selection to include enclosing expressions or code blocks. |
 
 
 </div>
