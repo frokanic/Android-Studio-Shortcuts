@@ -9,24 +9,11 @@ This text document will be my personal reference guide to android studio shortcu
 
 ## Shortcuts
 
-<table>
-  <tr>
-    <th>Shortcut Key</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><code>Ctrl + Shift + V</code></td>
-    <td>Paste from recent clipboard history</td>
-  </tr>
-  <tr>
-    <td><code>Ctrl + D</code></td>
-    <td>Duplicate the current line or selection</td>
-  </tr>
-  <tr>
-    <td><code>Ctrl + W</code></td>
-    <td>Incrementally selects a larger block of code. Starts from the word where the cursor is located and expands the selection to include enclosing expressions or code blocks.</td>
-  </tr>
-</table>
+| Shortcut Key                     | Description                                                |
+|:---------------------------------|:-----------------------------------------------------------|
+| Ctrl + Shift + V               | Paste from recent clipboard history                        |
+| Ctrl + D             | Duplicate the current line or selection       |
+| Ctrl + W   | Incrementally selects a larger block of code. Starts from the word where the cursor is located and expands the selection to include enclosing expressions or code blocks. |
 
 
 </div>
