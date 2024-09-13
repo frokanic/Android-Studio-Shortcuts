@@ -15,6 +15,8 @@ This text document will be my personal reference guide to android studio shortcu
 | Ctrl + D             | Duplicate the current line or selection       |
 | Ctrl + W   | Incrementally selects a larger block of code. Starts from the word where the cursor is located and expands the selection to include enclosing expressions or code blocks. |
 | Ctrl + Shift + Backspace   | Takes you back to the last place you edited in your code. |
+| Ctrl + Shift + ↑ / ↓           | Move the current line up or down in the code                |
+
 
 
 </div>
