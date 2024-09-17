@@ -18,6 +18,7 @@ This text document will be my personal reference guide to android studio shortcu
 | Ctrl + Shift + Backspace   | Takes you back to the last place you edited in your code. |
 | Ctrl + Shift + ↑ / ↓           | Move the current line up or down in the code                |
 | Ctrl + P | Shows the parameter info for the method or function you're currently typing, displaying the expected arguments and their types. |
+| Ctrl + + / Ctrl + - | Expands or collapses the current code block or function to help manage large code files. |
 
 
 </div>
