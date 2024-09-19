@@ -19,6 +19,8 @@ This text document will be my personal reference guide to android studio shortcu
 | Ctrl + Shift + ↑ / ↓           | Move the current line up or down in the code                |
 | Ctrl + P | Shows the parameter info for the method or function you're currently typing, displaying the expected arguments and their types. |
 | Ctrl + + / Ctrl + - | Expands or collapses the current code block or function to help manage large code files. |
+| Ctrl + Alt + L |	Reformats the code in the current file or selected code snippet, applying the code style settings from your preferences. |
+| Ctrl + Alt + Shift + L |	Opens a dialog to reformat code with more options, allowing you to select a range of code and configure specific formatting settings before applying them. |
 
 
 </div>
